@@ -1,1 +1,1 @@
-# projects-using-HTML-CSS-and-JAVA Script
+# project-using-HTML-CSS-and-JAVA Script
